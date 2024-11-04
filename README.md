@@ -20,6 +20,7 @@ google-generativeai
 pypdf  
 json  
 os  
+flask  
 psycopg2  
 sqlalchemy
 
